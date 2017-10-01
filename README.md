@@ -3,7 +3,7 @@ A collection of Python scripts that I've written for practical usage.
 
 # clean_space.py usage:
 
-sudo python clean_space.py [target directory] [age of logs]
+`sudo python clean_space.py [target directory] [age of logs]`
 
 # clean_space.py description:
 
